@@ -1,6 +1,0 @@
-### Olá me chamo Gabriela 👋  
-Cursando: Analista e Desenvolvimento de sistema na Unip - SBC -
-📫 Contate-me pelo e-mail: gabi-1518@hotmail.com
-<div 
-style="display: inline_block"><br> <img align="center" alt="Italo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Italo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Italo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons
-</div>
